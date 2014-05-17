@@ -1,0 +1,19 @@
+{
+  "name": "demo-app2",
+  "version": "0.0.0",
+  "authors": [
+    "Lucas Cotner <lc07@uw.edu>"
+  ],
+  "description": "A bower, grunt, sass project",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "css-calc-mixin": "*"
+  }
+}
