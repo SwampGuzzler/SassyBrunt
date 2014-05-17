@@ -1,0 +1,1 @@
+A node application built with Express and using Grunt, Sass, & Bower. Also beautifully deployed on Heroku at http://luke-cotner-demo-app.herokuapp.com/
